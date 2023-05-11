@@ -133,7 +133,7 @@
 </p>
 <p align="center">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=akashpagi&count_private=true&include_all_commits=true&theme=tokyonight" alt="Akash's stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asp977&layout=compact&theme=tokyonight" alt="Akash's top language stats" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpagi&layout=compact&theme=tokyonight" alt="Akash's top language stats" />
 </p>
 
 <a href="https://github.com/asp977"><img  height="270" width="1050" alt="Akash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akashpagi&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
