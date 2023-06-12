@@ -136,6 +136,6 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashpagi&layout=compact&theme=tokyonight" alt="Akash's top language stats" />
 </p>
 
-<a href="https://github.com/akashpagi"><img  height="270" width="1050" alt="Akash's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=akashpagi&bg_color=0D1117&color=FFFFFF&line=7F3FBF&point=FFFFFF&border_color=7F3FBF" /></a>
+<a href="https://github.com/akashpagi"><img  height="270" width="1050" alt="Akash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=akashpagi&bg_color=0d1117&color=dde9e5&line=52d4ff&point=ff006f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
 
 
