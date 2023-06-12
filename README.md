@@ -127,7 +127,7 @@
 
 ## Github Stats:
 <p align="center">
-  <a href="https://github.com/asp977">
+  <a href="https://github.com/akashpagi">
     <img height = "160" src="https://github-readme-streak-stats.herokuapp.com/?user=akashpagi&theme=radical&border=7F3FBF&background=0D1117" alt="Akash's GitHub streak"/>
   </a>
 </p>
