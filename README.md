@@ -44,9 +44,6 @@
  <a href="https://instagram.com/akashpagi07" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="akashpagi" />
  </a> 
- <a href="https://facebook.com/akashpagi07" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="akashpagi"  />
-  </a> 
   
   <a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashpagi"  />
