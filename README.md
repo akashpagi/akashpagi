@@ -41,9 +41,9 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="akashpagi" />
  </a> 
   
-  <a href="#" target="_blank">
+  <!--<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashpagi"  />
-  </a>
+  </a>-->
  <!--https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-->
 </p>
 <hr/>
