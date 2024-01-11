@@ -1,16 +1,3 @@
-<!--
-<h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-
-
-<p align="center">
-  <a href="https://github.com/alsiam"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Front%20End%20Developer;1.5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
-</p>
-
--->
 
 <a href="https://komarev.com/ghpvc/?username=akashpagi">
   <img align="right" src="https://komarev.com/ghpvc/?username=akashpagi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
@@ -30,9 +17,17 @@
 </p>
 
 <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
+  </a>
+</p>
+
+<p align="center">
 <!-- <a href="#" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="akashpagi" />
- </a>-->
+
+
+  <!--
  <a href="https://linkedin.com/in/akashpagi" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akashpagi"/>
  </a>
@@ -40,7 +35,7 @@
  <a href="https://instagram.com/akashpagi07" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="akashpagi" />
  </a> 
-  
+   </a> -->
   <!--<a href="#" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashpagi"  />
   </a>-->
