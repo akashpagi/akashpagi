@@ -48,8 +48,8 @@
 <p>
  <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
 
- ✌️ Passionate about programming and sharing knowledge.e <br/>
- ❤️ Enjoys learning new things consistently. <br/>
+ ✌️ Passionate about programming and sharing knowledge <br/>
+ ❤️ Enjoys learning new things consistently <br/>
  📧 Available for contact anytime at pagiakash188@gmail.com <br/>
 </p>
 <!-- About Section -->
