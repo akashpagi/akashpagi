@@ -47,10 +47,10 @@
  ### About Me :
 <p>
  <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
- 
- ✌️ Enjoy to do programming and sharing knowledge <br/>
- ❤️ Try to learn new things <br/>
- 📧 Reach me anytime: pagiakash188@gmail.com<br/>
+
+ ✌️ Passionate about programming and sharing knowledge.e <br/>
+ ❤️ Enjoys learning new things consistently. <br/>
+ 📧 Available for contact anytime at pagiakash188@gmail.com <br/>
 </p>
 <!-- About Section -->
 
