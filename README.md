@@ -29,9 +29,9 @@
   <a href="https://www.instagram.com/akashpagi07" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="mailto:pagiakash188@gmail.com">
+<!--   <a href="mailto:pagiakash188@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
+  </a> -->
 </p>
 
 <p align="center">
