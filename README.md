@@ -1,63 +1,67 @@
 <!-- Intro  -->
-
-
-<h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
-</h2>
-
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
+</h3>
 
 <p align="center">
-    Aspiring Data Scientist  
+  Aspiring Data Scientist  
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-<a href="mailto:pagiakash188@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
+   <!-- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pagiakash188@gmail.com" target="_blank">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    </a>-->
 </p>
 
-<p align="center">
-<!-- <a href="#" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="akashpagi" />
-
-
-  <!--
- <a href="https://linkedin.com/in/akashpagi" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="akashpagi"/>
- </a>
-  
- <a href="https://instagram.com/akashpagi07" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="akashpagi" />
- </a> 
-   </a> -->
-  <!--<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="akashpagi"  />
-  </a>-->
- <!--https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)-->
-</p>
-<hr/>
 
 <!-- About Section -->
- ### About Me :
-<p>
- 
-
- ✌️ Passionate about programming and sharing knowledge <br/>
- <!--❤️ Enjoys learning new things consistently <br/>-->
- 📧 Available for contact anytime at pagiakash188@gmail.com <br/>
-</p>
+<div align="center">
+    <h3>About Me!</h3>
+    <p>✌️ Passionate about programming and sharing knowledge</p>
+    <p>📧 Available for contact anytime at pagiakash188@gmail.com</p>
+</div>
 <!-- About Section -->
+
 
 <h2 align="center">⚒️ Languages-Frameworks-Database-Tools ⚒️</h2>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=py,javascript,django" /> <br>
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,git" /><br>
-    <img src="https://skillicons.dev/icons?i=mysql," /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,pycharm,sublime,netlify" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,windows&theme=light" /><br>
-</div>
+
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>Database</th>
+    <th>Tools</th>
+    <th>OS</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py" /></a>
+      <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+    </td>
+    <td>
+      <a href="https://www.djangoproject.com/"><img src="https://skillicons.dev/icons?i=django" /></a>
+      <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+    </td>
+    <td>
+      <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+    </td>
+    <td>
+      <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+      <a href="https://www.jetbrains.com/pycharm/"><img src="https://skillicons.dev/icons?i=pycharm" /></a>
+      <a href="https://www.sublimetext.com/"><img src="https://skillicons.dev/icons?i=sublime" /></a>
+      <a href="https://www.netlify.com/"><img src="https://skillicons.dev/icons?i=netlify" /></a>
+      <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+    </td>
+    <td>
+      <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" /></a>
+      <a href="https://www.kali.org/"><img src="https://skillicons.dev/icons?i=kali" /></a>
+    </td>
+  </tr>
+</table>
 
 
 
