@@ -1,34 +1,21 @@
-
-<a href="https://komarev.com/ghpvc/?username=akashpagi">
-  <img align="right" src="https://komarev.com/ghpvc/?username=akashpagi&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
-</a>
-
-
 <!-- Intro  -->
 
 
-<h1 align="center">
+<h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height60&duration=4000&lines=Hi+There+!+👋;+I'm+Akash+Pagi+!;" />
-</h1>
+</h2>
 
 
 <p align="center">
     Aspiring Data Scientist  
 </p>
-
-<!-- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail" />
-  </a>
-</p>
--->
 <p align="center">
   <a href="https://www.linkedin.com/in/akashpagi/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
-<!--   <a href="mailto:pagiakash188@gmail.com">
+<a href="mailto:pagiakash188@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a> -->
+  </a>
 </p>
 
 <p align="center">
@@ -55,7 +42,7 @@
 <!-- About Section -->
  ### About Me :
 <p>
- <img align="right" width="350" src="/assets/programming.gif" alt="Coding gif" />
+ 
 
  ✌️ Passionate about programming and sharing knowledge <br/>
  <!--❤️ Enjoys learning new things consistently <br/>-->
