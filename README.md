@@ -22,7 +22,7 @@
 <!-- About Section -->
 <div align="center">
     <h3>About Me!</h3>
-    <p>✌️ Passionate about programming and sharing knowledge</p>
+    <p>✌️ Dedicated to exploring IT innovations and empowering others through knowledge ✌️</p>
     <p>📧 Available for contact anytime at <a href="mailto:pagiakash188@gmail.com">pagiakash188@gmail.com</a></p>
 </div>
 <!-- About Section -->
